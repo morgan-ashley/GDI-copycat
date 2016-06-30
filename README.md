@@ -6,6 +6,6 @@ This is a simple mockup version of Girl Develop It website.
 
 *I will be adding parallax scrolling in the near future.*
 
-[My CodePen](http://codepen.io/morgan-ashley/pen/BzRyvE)
+[View on CodePen](http://codepen.io/morgan-ashley/pen/BzRyvE)
 
 [Original website]( https://www.girldevelopit.com)
