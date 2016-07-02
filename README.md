@@ -3,8 +3,9 @@
 ##30 days, 30 mock websites. Day One
 This is a simple mockup version of Girl Develop It website. 
 
+*Something new I learned: Creating the two <hr> as a page design accent.*
 
-*I will be adding parallax scrolling in the near future.*
+Future todo: Add parallax scrolling
 
 [View on CodePen](http://codepen.io/morgan-ashley/pen/BzRyvE)
 
