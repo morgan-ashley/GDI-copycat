@@ -3,7 +3,7 @@
 ##30 days, 30 mock websites. Day One
 This is a simple mockup version of Girl Develop It website. 
 
-*Something new I learned: Creating the two '<hr>' as a page design accent.*
+*Something new I learned: Using an hr element to create a page design accent.*
 
 Future todo: Add parallax scrolling
 
